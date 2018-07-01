@@ -8,5 +8,3 @@ Pixel art is a form of digital art, created through the use of software, where b
 *  Grid width input
 *  Color picker
 *  Submit button to draw grid
-
-## Front-End Google Africa Scholarship project
